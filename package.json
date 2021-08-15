@@ -1,0 +1,5 @@
+{
+	"dependencies": {
+		"@grunmouse/combinatorics": "link:..\\combinatorics"
+	}
+}
