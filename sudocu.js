@@ -1,6 +1,6 @@
 const inspect = Symbol.for('nodejs.util.inspect.custom');
 const {floor} = Math;
-const {combination} = require('./combination.js');
+const combination = require('./combination.js');
 
 function first(itr){
 	for(let val of itr){
